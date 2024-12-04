@@ -44,6 +44,26 @@
 | <span style='display: inline-block; width: 42px;'>04-30</span> | **Better & Faster Large Language Models via Multi-token Prediction**<br><sub>机构: FAIR at Meta<br>论文提出了一种新的训练大型语言模型的方法，通过预测多个标记而不是单个来提高样本效率，并展示了如何提升生成任务中的性能并加快推理速度。实验证明了这种方法在提升大型模型性能和推理效率方面的显著优势。</sub>| <div style='min-width:85px;'>[![arXiv](https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv)](http://arxiv.org/pdf/2404.19737v1)</div><div style='min-width:85px;'>[![Summary](https://img.shields.io/badge/Sum.-Read-blue?logo=dependabot)](summary/2024-04/2404.19737.md)  |
 | <span style='display: inline-block; width: 42px;'>04-30</span> | **Multi-hop Question Answering over Knowledge Graphs using Large Language Models**<br><sub>机构: Microsoft<br>论文在多跳问答任务中提出针对不同的知识图谱数据集采用不同策略，展示了利用大型预训练语言模型在这些复杂问答任务中的强大能力。通过实验，验证了所提方法相比现有技术的优势。</sub>| <div style='min-width:85px;'>[![arXiv](https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv)](http://arxiv.org/pdf/2404.19234v1)</div><div style='min-width:85px;'>[![Summary](https://img.shields.io/badge/Sum.-Read-blue?logo=dependabot)](summary/2024-04/2404.19234.md)  |
 
+---------------------------
+
+### AI方向会议期刊
+
+| &nbsp;Conference/Year&nbsp;&nbsp; | Paper | Links & Summary |
+| --- | --- | --- |
+| <span style='display: inline-block; width: 42px;'>07-29</span> | **SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages**<br><sub>机构: DAMO Academy, Alibaba Group<br>SeaLLMs 3是专为东南亚多语言环境设计的大型语言模型，重点在于克服现有模型的局限性，通过高效的语言增强技术和安全可靠的机制，使之能够提供文化适宜的回应，同时减少幻觉现象。</sub>| <div style='min-width:85px;'>[![arXiv](https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv)](http://arxiv.org/pdf/2407.19672v1)</div><div style='min-width:85px;'>[![Summary](https://img.shields.io/badge/Sum.-Read-blue?logo=dependabot)](summary/2024-07/2407.19672.md)  |
+| <span style='display: inline-block; width: 42px;'>07-29</span> | **QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**<br><sub>机构: Tsinghua University<br>QAEA-DR框架提出了一个针对密集检索的创新文本增强技术，通过集成事件提取和问题答案生成来提高文本生成的质量和健壮性，同时还可以与多种嵌入模型兼容，证明了其在实验中的有效性。</sub>| <div style='min-width:85px;'>[![arXiv](https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv)](http://arxiv.org/pdf/2407.20207v1)</div><div style='min-width:85px;'>[![Summary](https://img.shields.io/badge/Sum.-Read-blue?logo=dependabot)](summary/2024-07/2407.20207.md)  |
+
+---------------------------
+
+
+### 开源大模型
+
+| &nbsp;Conference/Year&nbsp;&nbsp; | Paper | Links & Summary |
+| --- | --- | --- |
+| <span style='display: inline-block; width: 42px;'>07-29</span> | **SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages**<br><sub>机构: DAMO Academy, Alibaba Group<br>SeaLLMs 3是专为东南亚多语言环境设计的大型语言模型，重点在于克服现有模型的局限性，通过高效的语言增强技术和安全可靠的机制，使之能够提供文化适宜的回应，同时减少幻觉现象。</sub>| <div style='min-width:85px;'>[![arXiv](https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv)](http://arxiv.org/pdf/2407.19672v1)</div><div style='min-width:85px;'>[![Summary](https://img.shields.io/badge/Sum.-Read-blue?logo=dependabot)](summary/2024-07/2407.19672.md)  |
+| <span style='display: inline-block; width: 42px;'>07-29</span> | **QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**<br><sub>机构: Tsinghua University<br>QAEA-DR框架提出了一个针对密集检索的创新文本增强技术，通过集成事件提取和问题答案生成来提高文本生成的质量和健壮性，同时还可以与多种嵌入模型兼容，证明了其在实验中的有效性。</sub>| <div style='min-width:85px;'>[![arXiv](https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv)](http://arxiv.org/pdf/2407.20207v1)</div><div style='min-width:85px;'>[![Summary](https://img.shields.io/badge/Sum.-Read-blue?logo=dependabot)](summary/2024-07/2407.20207.md)  |
+
+---
 
 ## Star History
 <picture>
