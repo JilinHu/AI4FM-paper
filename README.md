@@ -1,37 +1,13 @@
-<h2 align='center'>llm-paper-daily 日常论文精选</h2>
+<h2 align='center'>AI4FM-paper 论文列表</h2>
 <div align='center'>
 
 [![Status](https://img.shields.io/badge/status-Update_07.31_10:00-success.svg)]() [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README.md) [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README_en.md) 
 
 </div>
 
-欢迎来到 **llm-paper-daily**! 这是一个获取最新研究论文的每日更新和分类的平台。希望为爱好者提供 LLM 研究的前沿资讯，让您更轻松地了解该领域的最新发展。
+欢迎来到 **AI4FM-paper**! 本列表收集形式化方向、编程语言方向、软工方向、系统方向、安全方向的顶会顶刊中关于AI for FM的论文。
 
-📚 **每日更新:** 仓库每天会带来最新的 LLM 研究，并附有arxiv地址、相关 git 仓库和基于 GPT-4 的简单总结
 
-💐 **分类摘要:** 将每篇论文分类到如推理、代理、检索、应用、预训练与指令微调等不同部分，帮助您能轻松导航并发现相关的研究
-
-🌈 **交流学习:** 最近准备拉一个讨论小组方便大家交流和互相学习。
-欢迎对大模型落地、论文等等方面有兴趣的小伙伴加入🙌 
-
-<img src='./images/qrcode.JPG' width=15%  alt=/>
-
-## 目录
-- [最新论文(含总结)](#最新论文)
-- [分类](#分类)
-  - [💡 Reasoning](CATEGORIES.md#Reasoning)
-  - [🤖 Agent](CATEGORIES.md#Agent)
-  - [🦉 Knowledge and Retrieval](CATEGORIES.md#Knowledge-and-Retrieval)
-  - [👩‍🏫 Alignment and Hallucination](CATEGORIES.md#Alignment-and-Hallucination)
-  - [🎨 Application](CATEGORIES.md#Application)
-  - [📐 Pre-training and Instruction Fine-tuning](CATEGORIES.md#Pre-training-and-Instruction-Fine-tuning)
-  - [📄 Survey](CATEGORIES.md#Survey)
-<details>
-  <summary>查看更新文章 &nbsp;&nbsp;<sub>更新时间: 07月31日 10:00</sub></summary>
-<br>
-
-- Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning 
-</details>
 
 ## 最新论文
 ### 07月
